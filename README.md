@@ -1,2 +1,2 @@
 # pixabay-image-downloader
-Simple python script for downloading Pixabay images.
+Simple Python script for downloading Pixabay images.
